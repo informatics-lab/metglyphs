@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45 (43475) - http://www.bohemiancoding.com/sketch -->
+    <title>6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 1.7247 0 0 15 0 15 1.7247"></polygon>
+        <path d="M0.0825,0.296 L0.0825,5.6 L1.4175,5.6 L1.4175,3.776 L3.6375,3.776 L3.6375,2.624 L1.4175,2.624 L1.4175,1.472 L3.8775,1.472 L3.8775,0.296 L0.0825,0.296 L0.0825,0.296 Z M9.465,2.952 C9.465,1.296 8.295,0.216 6.9,0.216 C5.505,0.216 4.335,1.296 4.335,2.952 C4.335,4.608 5.505,5.68 6.9,5.68 C8.295,5.68 9.465,4.608 9.465,2.952 L9.465,2.952 Z M8.07,2.952 C8.07,3.792 7.65,4.288 6.9,4.288 C6.15,4.288 5.73,3.792 5.73,2.952 C5.73,2.112 6.15,1.608 6.9,1.608 C7.65,1.608 8.07,2.112 8.07,2.952 L8.07,2.952 Z M14.745,1.656 C14.445,0.832 13.5525,0.216 12.5175,0.216 C11.0925,0.216 9.93,1.256 9.93,2.952 C9.93,4.488 10.8525,5.68 12.33,5.68 C12.72,5.68 13.0425,5.592 13.4025,5.368 L13.77,5.144 L13.98,5.6 L14.9025,5.6 L14.9025,2.952 C14.9025,2.784 14.85,2.736 14.67,2.736 L12.9075,2.736 L12.9075,3.656 L13.5975,3.656 L13.5975,4.112 C13.5975,4.168 13.59,4.2 13.53,4.224 C13.32,4.296 12.9225,4.344 12.63,4.344 L12.615,4.344 C11.79,4.344 11.325,3.824 11.325,2.92 C11.325,2.032 11.82,1.504 12.42,1.504 C12.7125,1.504 12.915,1.576 13.185,1.752 L13.9575,2.256 L14.745,1.656 L14.745,1.656 Z" id="path-3"></path>
+    </defs>
+    <g id="Weather-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6">
+            <g id="Icon-/-Weather-symbol-/-Weather-icon-/-6">
+                <g id="Icon-/-Weather-icon-/-6">
+                    <g id="29-+-Rectangle-8" transform="translate(5.000000, 8.000000)">
+                        <g id="29" transform="translate(8.000000, 1.000000)">
+                            <g id="Group-61">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <g id="Clip-60"></g>
+                            </g>
+                            <g id="Group-70" transform="translate(0.000000, 4.500000)">
+                                <mask id="mask-4" fill="white">
+                                    <use xlink:href="#path-3"></use>
+                                </mask>
+                                <g id="Clip-69"></g>
+                                <polygon id="Fill-68" fill="#575756" mask="url(#mask-4)" points="-1.7925 -1.784 16.7775 -1.784 16.7775 7.68 -1.7925 7.68"></polygon>
+                            </g>
+                        </g>
+                        <rect id="Rectangle-8" stroke="#575756" stroke-width="2" x="1" y="1" width="28" height="15"></rect>
+                    </g>
+                    <rect id="Bounding-box" x="0" y="0" width="40" height="40"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

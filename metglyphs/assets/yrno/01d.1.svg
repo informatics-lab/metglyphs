@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg28"
+   version="1.1"
+   viewBox="0 0 100 100"
+   y="0"
+   x="0"><metadata
+   id="metadata32">
+  <rdf:RDF>
+    <cc:Work
+       rdf:about="">
+      <dc:format>image/svg+xml</dc:format>
+      <dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    </cc:Work>
+  </rdf:RDF>
+</metadata>
+;
+  <symbol
+   id="sun">
+  <path
+     id="path2"
+     d="M66.64,47.86,82,41,66.64,34.12l9.84-13.66L59.76,22.22,61.46,5.47l-13.6,9.89L41,0,34.12,15.36,20.46,5.52l1.76,16.72L5.47,20.54l9.89,13.6L0,41l15.36,6.83L5.52,61.54l16.72-1.76L20.54,76.53l13.6-9.89L41,82l6.83-15.36,13.66,9.84L59.78,59.76l16.75,1.69Z"
+     fill="url(#sun-glow-grad)"
+     class="sun-glow" />
+  <path
+     id="path4"
+     d="M19.28,53.5a25,25,0,1,0,9.15-34.16A25,25,0,0,0,19.28,53.5Z"
+     fill="#ffd348"
+     class="sun-outer" />
+  <path
+     id="path6"
+     d="M22.74,51.5a21,21,0,1,0,7.69-28.69A21,21,0,0,0,22.74,51.5Z"
+     fill="url(#sun-inner-grad)"
+     class="sun-inner" />
+</symbol>
+<defs
+   id="defs21">
+  <radialGradient
+     gradientUnits="userSpaceOnUse"
+     r="41"
+     cy="41"
+     cx="41"
+     id="sun-glow-grad">
+    <stop
+       id="stop9"
+       stop-color="#d6b849"
+       offset="54%" />
+    <stop
+       id="stop11"
+       stop-color="#ffce47"
+       offset="67%" />
+    <stop
+       id="stop13"
+       stop-color="#ffdb73"
+       offset="100%" />
+  </radialGradient>
+  <linearGradient
+     y2="100%"
+     x2="100%"
+     y1="0%"
+     x1="0%"
+     id="sun-inner-grad">
+    <stop
+       id="stop16"
+       stop-color="#ffaf22"
+       offset="0%" />
+    <stop
+       id="stop18"
+       stop-color="#f09900"
+       offset="100%" />
+  </linearGradient>
+</defs>
+<symbol
+   id="s01d">
+  <use
+     id="use23"
+     transform="translate(9,9) scale(1,1)"
+     height="100"
+     width="100"
+     y="0"
+     x="0"
+     xlink:href="#sun" />
+</symbol>
+<use
+   id="use26"
+   height="100"
+   width="100"
+   y="0"
+   x="0"
+   xlink:href="#s01d" />
+</svg>

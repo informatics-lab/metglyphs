@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg58"
+   version="1.1"
+   viewBox="0 0 100 100"
+   y="0"
+   x="0"><metadata
+   id="metadata62">
+  <rdf:RDF>
+    <cc:Work
+       rdf:about="">
+      <dc:format>image/svg+xml</dc:format>
+      <dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    </cc:Work>
+  </rdf:RDF>
+</metadata>
+;
+  <symbol
+   id="snowflake">
+  <path
+     id="path2"
+     d="M11.68,4.47H8.85L10.27,2A1.35,1.35,0,1,0,7.93.67L6.51,3.12,5.1.67A1.35,1.35,0,0,0,3.26.18,1.35,1.35,0,0,0,2.76,2L4.18,4.47H1.35a1.35,1.35,0,1,0,0,2.7H4.18L2.76,9.62a1.35,1.35,0,0,0,.49,1.84A1.39,1.39,0,0,0,5.1,11L6.51,8.52,7.93,11a1.35,1.35,0,1,0,2.34-1.35L8.85,7.17h2.83a1.35,1.35,0,1,0,0-2.7Z"
+     fill="#47c0e3" />
+</symbol>
+<symbol
+   id="cloud">
+  <path
+     id="path5"
+     d="M55.7,5A23.94,23.94,0,0,0,34.37,18.05a9.9,9.9,0,0,0-12.78,5.56,15,15,0,0,0-1.71-.1A14.81,14.81,0,0,0,9.2,28,14.63,14.63,0,0,0,5,38.17v.21A14.83,14.83,0,0,0,19.88,53.06H75.59a14.3,14.3,0,0,0,3.67-28.14A23.93,23.93,0,0,0,55.7,5Z" />
+  <image
+     id="image7"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFYAAAAkCAMAAAAkYj0PAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAVUExURSgoKExpcaCgoFBQUG5ublBQUISEhI1fsT0AAAAHdFJOUxsACBsPFRpGXuFgAAABWElEQVRIx7XV25bDIAgF0BMu/v8nF/E+iWlqHNKVN3cpIMXxL4GFM3SQfTazkUyxk63oLYwlVSy2silXkS/wUrZS2a3ZCn1zsdSw7UUYijuHsTa1IvfwWrbSXLkc4N9r27JViwmM1UtWXA3hohQ41m6vl8FQZi7wu2z7KXPW4uRiZS+2AmdXN7DdQEQWQHYHlt6z0dXBBa2xeeVktiZc1jDoF5eGkI4d4MjKc7cNbZ3bqjocLLx5oPDYTaIftcfvAvcs2GFxVsJTOP1wO1jGdUSLaz/DWA1Tl45+Tkqul2ArcPzayGq8JafOUffP3TUp6JQs+Rptc6vtmtBkUw+dv0NzWG0PYf8O7Ym09+ITXyXOPZqEX95aFe3PKxRsL2XV3HR+ZALirPSF0ceHp6F51WBv1A22VaW2GHWzWvat8LOAPf4CrjrA+neNK7+PQBf/DmmLrId09/QDWyESBsibwBUAAAAASUVORK5CYII="
+     height="43"
+     width="85"
+     y="14"
+     x="5" />
+</symbol>
+<symbol
+   id="s50">
+  <use
+     id="use10"
+     transform="translate(3,18) scale(1,1)"
+     height="100"
+     width="100"
+     y="0"
+     x="0"
+     fill="#999999"
+     xlink:href="#cloud" />
+  <use
+     id="use12"
+     transform="translate(15,79) scale(1,1)"
+     height="100"
+     width="100"
+     y="0"
+     x="0"
+     xlink:href="#snowflake" />
+  <use
+     id="use14"
+     transform="translate(29,88) scale(1,1)"
+     height="100"
+     width="100"
+     y="0"
+     x="0"
+     xlink:href="#snowflake" />
+  <use
+     id="use16"
+     transform="translate(44,79) scale(1,1)"
+     height="100"
+     width="100"
+     y="0"
+     x="0"
+     xlink:href="#snowflake" />
+  <use
+     id="use18"
+     transform="translate(58,88) scale(1,1)"
+     height="100"
+     width="100"
+     y="0"
+     x="0"
+     xlink:href="#snowflake" />
+  <use
+     id="use20"
+     transform="translate(72,79) scale(1,1)"
+     height="100"
+     width="100"
+     y="0"
+     x="0"
+     xlink:href="#snowflake" />
+</symbol>
+<symbol
+   id="sun">
+  <path
+     id="path23"
+     d="M66.64,47.86,82,41,66.64,34.12l9.84-13.66L59.76,22.22,61.46,5.47l-13.6,9.89L41,0,34.12,15.36,20.46,5.52l1.76,16.72L5.47,20.54l9.89,13.6L0,41l15.36,6.83L5.52,61.54l16.72-1.76L20.54,76.53l13.6-9.89L41,82l6.83-15.36,13.66,9.84L59.78,59.76l16.75,1.69Z"
+     fill="url(#sun-glow-grad)"
+     class="sun-glow" />
+  <path
+     id="path25"
+     d="M19.28,53.5a25,25,0,1,0,9.15-34.16A25,25,0,0,0,19.28,53.5Z"
+     fill="#ffd348"
+     class="sun-outer" />
+  <path
+     id="path27"
+     d="M22.74,51.5a21,21,0,1,0,7.69-28.69A21,21,0,0,0,22.74,51.5Z"
+     fill="url(#sun-inner-grad)"
+     class="sun-inner" />
+</symbol>
+<defs
+   id="defs47">
+  <mask
+     id="cloud_3_18_1_1_5">
+    <rect
+       id="rect30"
+       fill="white"
+       height="100"
+       width="100"
+       y="0"
+       x="0" />
+    <use
+       id="use32"
+       transform="translate(3,18) scale(1,1)"
+       height="100"
+       width="100"
+       y="0"
+       x="0"
+       stroke-width="10"
+       stroke-linejoin="round"
+       stroke="black"
+       fill="black"
+       xlink:href="#cloud" />
+  </mask>
+  <radialGradient
+     gradientUnits="userSpaceOnUse"
+     r="41"
+     cy="41"
+     cx="41"
+     id="sun-glow-grad">
+    <stop
+       id="stop35"
+       stop-color="#d6b849"
+       offset="54%" />
+    <stop
+       id="stop37"
+       stop-color="#ffce47"
+       offset="67%" />
+    <stop
+       id="stop39"
+       stop-color="#ffdb73"
+       offset="100%" />
+  </radialGradient>
+  <linearGradient
+     y2="100%"
+     x2="100%"
+     y1="0%"
+     x1="0%"
+     id="sun-inner-grad">
+    <stop
+       id="stop42"
+       stop-color="#ffaf22"
+       offset="0%" />
+    <stop
+       id="stop44"
+       stop-color="#f09900"
+       offset="100%" />
+  </linearGradient>
+</defs>
+<symbol
+   id="s45d">
+  <g
+     id="g51"
+     mask="url(#cloud_3_18_1_1_5)">
+    <use
+       id="use49"
+       transform="translate(0,2) scale(0.7,0.7)"
+       height="100"
+       width="100"
+       y="0"
+       x="0"
+       xlink:href="#sun" />
+  </g>
+  <use
+     id="use53"
+     height="100"
+     width="100"
+     y="0"
+     x="0"
+     xlink:href="#s50" />
+</symbol>
+<use
+   id="use56"
+   height="100"
+   width="100"
+   y="0"
+   x="0"
+   xlink:href="#s45d" />
+</svg>
