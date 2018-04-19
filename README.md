@@ -1,5 +1,7 @@
 # MetGlyphs
 
+[![Build Status](https://travis-ci.org/informatics-lab/metglyphs.svg?branch=master)](https://travis-ci.org/informatics-lab/metglyphs)
+
 A small libary which bundles sets of weather glyphs/icons/symbols with useful code to convert between image types for data visualisation and plotting.
 
 When retrieving data from the multitude of weather APIs that are available you often get the weather represented by a code, however the codes are often inconsistent between services. This package allows you to simply convert the codes into glyphs/icons/symbols for use in your plots or applications.
@@ -47,7 +49,7 @@ This library currently supports the following weather codes.
 
 ## Glyph sets
 
-All glyphs/symbols/icons bundled in this library are open source and free to use provided you adhere to the terms of their respective licenses. 
+All glyphs/symbols/icons bundled in this library are open source and free to use provided you adhere to the terms of their respective licenses.
 
 To use them import the constant for the set you want and then pass it to your `GlyphSet` object when you construct it.
 
@@ -67,7 +69,7 @@ glyphs = GlyphSet(name=DEFAULT_GLYPHS)
 
 ## Code reference
 
-A combined subset of the [WMO 4677](http://www.wmo.int/pages/prog/www/WMOCodes/WMO306_vI1/Publications/2017update/Sel9.pdf) and [WMO 4680](http://weatherfaqs.org.uk/book/export/html/150) code references is used by this library. This creates a common translation layer between data APIs and glyph sets. 
+A combined subset of the [WMO 4677](http://www.wmo.int/pages/prog/www/WMOCodes/WMO306_vI1/Publications/2017update/Sel9.pdf) and [WMO 4680](http://weatherfaqs.org.uk/book/export/html/150) code references is used by this library. This creates a common translation layer between data APIs and glyph sets.
 
 Despite these codes being detailed they were designed for recording observations from manned and unmanned sites respectively. Therefore it is still not always obvious which glyph represents which code, so along with the official description of the code I have included a simple description and glyph suggestion which explains how I have interpreted it.
 
@@ -108,7 +110,7 @@ For example
 # This will replace blue with green in all glyphs in this set
 glyphs = GlyphSet(recolor={"#0000FF", "#00FF00"})
 
-# This will change the thunder glyph to red 
+# This will change the thunder glyph to red
 # (note that we are still replacing blue as recoloring is done at render time)
 thunder_glyph = glyphs.get_glyph(datapoint_code='30', recolor={"#0000FF", "#FF0000"}
 ```
