@@ -7,7 +7,8 @@ WEATHER_ICONS_IO_GLYPHS = 'weathericonsio'
 DEFAULT_GLYPHS = MET_OFFICE_GLYPHS
 
 
-# Lookup tables for wmo code to filename for each glyph set (path relative to assets/<set_name>/)
+# Lookup tables for wmo code to filename for each glyph set
+# Paths are relative to assets/<set_name>/
 WMO_GLYPH_LOOKUP = {
     YRNO_GLYPHS: {
         "00d": "01d.1.svg",

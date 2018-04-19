@@ -27,7 +27,7 @@ setup(
     download_url='',
     author='Jacob Tomlinson',
     author_email='jacob.tomlinson@informaticslab.co.uk',
-    description='A library for converting between weather codes, symbols and phrases.',
+    description='A library for converting weather codes to symbols.',
     long_description=README,
     packages=PACKAGES,
     include_package_data=True,

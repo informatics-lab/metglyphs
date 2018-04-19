@@ -1,4 +1,4 @@
-"""Lookup tables for converting between different symbol code reference systems."""
+"""Lookup tables for converting between code reference systems."""
 
 DATAPOINT_TO_WMO_LOOKUP = {
     "0":  "00n",  # Clear night
